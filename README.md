@@ -342,3 +342,9 @@ React → FastAPI → Python → Databases → Deployment
 📈 Business Intelligence
       ↓
 Excel → Power Query → DAX → Power BI → Decision Making
+
+## 📊 GitHub Contributions
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VedantPadwal04&hide_border=true&area=true" width="95%"/>
+</p>
