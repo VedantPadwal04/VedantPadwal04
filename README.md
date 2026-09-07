@@ -344,14 +344,4 @@ React → FastAPI → Python → Databases → Deployment
 Excel → Power Query → DAX → Power BI → Decision Making
 
 
-<!-- ===================== GITHUB STATISTICS ===================== -->
 
-## 📈 GitHub Contributions
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=VedantPadwal04&custom_title=Total%20GitHub%20Contributions&hide_border=true&area=true"
-    alt="GitHub Contribution Graph"
-    width="100%"
-  />
-</p>
