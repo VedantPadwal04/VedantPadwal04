@@ -44,6 +44,8 @@ My interests lie at the intersection of:
 
 I enjoy transforming raw data into meaningful insights and building AI-powered applications that solve practical problems.
 
+**Portfolio Link** - https://vedantpadwal04.github.io/VedantPadwal-Portfolio/
+
 
 <!-- ===================== TECH STACK ===================== -->
 
